@@ -4,9 +4,7 @@ import { Tabs, TabList, TabPanels, Tab, TabPanel } from '@chakra-ui/react'
 import TabP from './TabP'
 const Card = () => {
   return (
-    <div  style={{height:"25%"}}>
-      <div style={{backgroundColor:"white",width:"80%", height: "250px",padding:"12%" ,color:"black",marginLeft:"10%"}}>
-      <Box >
+
          
       <Tabs  isFitted variant='enclosed' w="120%" mt="-20%" ml="-10%">
   <TabList  mb='1em'>
