@@ -5,7 +5,7 @@ import TabP from './TabP'
 const Card = () => {
   return (
     <div>
-      <Box bg='red' w='80%' p="12%" h="80%" color='black' ml="10%" borderColor="red">
+      <Box bg='red' w='80%' p="12%" color='black' ml="10%" borderColor="red">
          
       <Tabs  isFitted variant='enclosed' w="120%" mt="-20%" ml="-10%" >
   <TabList  mb='1em'>
