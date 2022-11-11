@@ -1,6 +1,6 @@
 import React from 'react'
-import {HStack,Select,Input,Box,Spacer, Button} from "@chakra-ui/react"
-import { Checkbox, CheckboxGroup,Text } from '@chakra-ui/react'
+import {HStack,Select,Input,Box, Button} from "@chakra-ui/react"
+import { Checkbox,Text } from '@chakra-ui/react'
 const TabP = () => {
   
   return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import {Box,Flex,Input,Image,Button,Text,Select, HStack,Icon, Spacer, background} from "@chakra-ui/react"
+import {Box,Flex, HStack,Text, Spacer} from "@chakra-ui/react"
 import {BsFillPencilFill} from "react-icons/bs"
 import Card from './Card'
 import Mid from './Mid'
