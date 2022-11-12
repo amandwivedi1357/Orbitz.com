@@ -67,8 +67,8 @@ import {
           </ModalBody>
 
             <HStack justifyContent="space-between"p={2}>
-                <Link>Member Login</Link>
-                <Link>Forgot PassWord?</Link>
+                <Link>Member  Login</Link>
+                <Link>Forgot  PassWord?</Link>
 
             </HStack>
         </ModalContent>
