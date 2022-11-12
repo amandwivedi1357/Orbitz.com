@@ -131,7 +131,7 @@ import { SignUpModal } from "./SignUpModal";
                 <Stack mt={6}>
               <Button w="70%" m="auto" leftIcon={<RiFacebookCircleLine size={35} />} fontSize="xl" colorScheme='facebook'>Login With Facebook</Button>
               <HStack justifyContent="space-between"p={2}>
-                <Box><Link>Forgot Password ?</Link></Box>
+                <Box><Link>Forgot  Password ?</Link></Box>
                 <Spacer/>
                 <Spacer/>
                 <Box onClick={SignModalClick} ><Link>Not a member? Sign Up Free!!</Link>

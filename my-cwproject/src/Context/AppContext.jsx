@@ -14,6 +14,6 @@ export default function AppContextProvider({children}){
         setUser({...user,isAuth:false,userName:""})
      }
 return <AppContext.Provider value={{user,handleLogin,handleLogout}}>
-    {children}
+    { children }
 </AppContext.Provider>
 }
